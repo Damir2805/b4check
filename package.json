@@ -1,0 +1,19 @@
+{
+  "name": "b4check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "funcarray.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Damir2805/b4check.git"
+  },
+  "author": "damir2805",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Damir2805/b4check/issues"
+  },
+  "homepage": "https://github.com/Damir2805/b4check#readme"
+}
